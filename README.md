@@ -14,17 +14,16 @@ The app provides a mechanism to search for Apartments, it is integrated with voi
         • AWS ElasticSearch
         
             
-## Home Page
-![alt text](screenshots/homepage.JPG "this is the home page")
+## Architecture
+![alt text](screenshots/AWSarchitecture.png "AWS Architecture")
 
-## Login window
-![alt text](screenshots/Login.JPG "this is login window")
+## CICD Architecture
+![alt text](screenshots/CICD-architecture.png "CICD architecture")
 
-## Home  page after login
-![alt text](screenshots/viewlist.JPG "this is the landing page after login")
+## Apartment Search Page
+![alt text](screenshots/apartmentsSearch.png "this is the landing page after login")
 
-## Upload window
-![alt text](screenshots/upload.JPG "this is the upload window")
+## Apartment Listing Page   
+![alt text](screenshots/apartmentsListing.png "this is the upload window")
 
-## Update window
-![alt text](screenshots/update-delete.JPG "this is the update delete window")
+
