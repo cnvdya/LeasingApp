@@ -6,6 +6,7 @@ The app has been deployed as a Docker Container on AWS ECS, provides a mechanism
 
 ### Key AWS Services used
         • Elastic Container service
+        • AWS RDS
         • AWS CodeCommit
         • AWS CodePipeline 
         • AWS CodeDeploy
@@ -13,6 +14,9 @@ The app has been deployed as a Docker Container on AWS ECS, provides a mechanism
         • AWS Redis
         • AWS ElasticSearch
         • AWS Quicksight
+
+### Key Technology used
+        • Java Spring Boot
         
             
 ## Architecture
